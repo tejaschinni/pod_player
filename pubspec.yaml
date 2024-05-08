@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   # services
-  video_player: ^2.8.5
+  video_player: ^2.8.6
   http: ^1.2.1
   get: ^4.6.6
   wakelock_plus: ^1.2.5
